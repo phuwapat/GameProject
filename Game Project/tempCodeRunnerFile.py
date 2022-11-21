@@ -1,0 +1,1 @@
+pygame.transform.flip(bomb_image, True)
